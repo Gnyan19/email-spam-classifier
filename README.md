@@ -77,7 +77,7 @@ Use these to deploy in web apps or Flask/Django APIs.
 ---
 
 ## 🧑‍💻 Author
-Built by **Your Name** as part of an AI/Python Internship application.
+Built by Gnyanprakhash as part of an AI/Python Internship application.
 
 ---
 
